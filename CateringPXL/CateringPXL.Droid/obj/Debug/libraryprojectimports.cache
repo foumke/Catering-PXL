@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.Droid\obj\Debug\__library_projects__\Refractored.Xam.Settings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.Droid\obj\Debug\__library_projects__\Refractored.Xam.Settings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.Droid\obj\Debug\__library_projects__\Refractored.Xam.Settings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

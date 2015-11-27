@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CateringPXL.WelcomePage">
+  <ContentPage.Content>
+    <StackLayout Spacing="35" VerticalOptions="Center" Padding="0, 0, 0, 0">
+      <StackLayout>
+        <Image Source="logo_pxl.png" />
+        <Label Text="Selecteer locatie" Font="Large" VerticalOptions="Center" HorizontalOptions="Center" />
+      </StackLayout>
+      <StackLayout Spacing="5" Padding="10, 0, 10, 0">
+        <Button x:Name="btnLocationElfdelinie" Text="Elfdelinie" BackgroundColor="#58A518" TextColor="White" Clicked="btnLocationElfdelinie_clicked"/>
+        <Button x:Name="btnLocationDiepenbeek" Text="Diepenbeek" BackgroundColor="#58A518" TextColor="White" Clicked="btnLocationDiepenbeek_clicked"/>
+        <Button x:Name="btnLocationVilderstraat" Text="Vilderstraat" BackgroundColor="#58A518" TextColor="White" Clicked="btnLocationVilderstraat_clicked"/>
+      </StackLayout>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

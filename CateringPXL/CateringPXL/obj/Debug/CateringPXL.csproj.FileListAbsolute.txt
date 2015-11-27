@@ -1,0 +1,121 @@
+c:\users\gebruiker\documents\visual studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.dll
+c:\users\gebruiker\documents\visual studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.pdb
+c:\users\gebruiker\documents\visual studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\gebruiker\documents\visual studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\gebruiker\documents\visual studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\gebruiker\documents\visual studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\gebruiker\documents\visual studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.dll
+c:\users\gebruiker\documents\visual studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\obj\Debug\WelcomePage.xaml.g.cs
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\obj\Debug\MenuPage.xaml.g.cs
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CardWrap.xaml.g.cs
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\obj\Debug\MenuWrap.xaml.g.cs
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\CateringPXL\CateringPXL\CateringPXL\obj\Debug\Splash.xaml.g.cs
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.dll
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.pdb
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Newtonsoft.Json.dll
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Core.dll
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Newtonsoft.Json.xml
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Core.xml
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.csprojResolveAssemblyReference.cache
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\WelcomePage.xaml.g.cs
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\MenuPage.xaml.g.cs
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CardWrap.xaml.g.cs
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\MenuWrap.xaml.g.cs
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\Splash.xaml.g.cs
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.dll
+E:\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.pdb
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.pdb
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Newtonsoft.Json.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Core.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Xaml.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Newtonsoft.Json.xml
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Core.xml
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Xaml.xml
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\WelcomePage.xaml.g.cs
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\MenuPage.xaml.g.cs
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CardWrap.xaml.g.cs
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\MenuWrap.xaml.g.cs
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\Splash.xaml.g.cs
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.pdb
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.Abstractions.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.xml
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.Abstractions.xml
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.dll.mdb
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.dll.mdb
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.pdb
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Newtonsoft.Json.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.Abstractions.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Core.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Xaml.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Newtonsoft.Json.xml
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.xml
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.Abstractions.xml
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Core.xml
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Xaml.xml
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.csprojResolveAssemblyReference.cache
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\WelcomePage.xaml.g.cs
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\MenuPage.xaml.g.cs
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CardWrap.xaml.g.cs
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\MenuWrap.xaml.g.cs
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\Splash.xaml.g.cs
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.pdb
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.dll.mdb
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.dll.mdb
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.dll
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.pdb
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Newtonsoft.Json.dll
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.Abstractions.dll
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.dll
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Core.dll
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Xaml.dll
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Newtonsoft.Json.xml
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.xml
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.Abstractions.xml
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Core.xml
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Xaml.xml
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.csprojResolveAssemblyReference.cache
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\WelcomePage.xaml.g.cs
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\MenuPage.xaml.g.cs
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CardWrap.xaml.g.cs
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\MenuWrap.xaml.g.cs
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\Splash.xaml.g.cs
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.dll
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.pdb
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.dll.mdb
+R:\Users\Roy\Desktop\Versie_2\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.dll.mdb
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.pdb
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Newtonsoft.Json.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.Abstractions.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Core.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Xaml.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Newtonsoft.Json.xml
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.xml
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Refractored.Xam.Settings.Abstractions.xml
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Core.xml
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\Xamarin.Forms.Xaml.xml
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\obj\Debug\WelcomePage.xaml.g.cs
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\obj\Debug\MenuPage.xaml.g.cs
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CardWrap.xaml.g.cs
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\obj\Debug\MenuWrap.xaml.g.cs
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\obj\Debug\Splash.xaml.g.cs
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.pdb
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.csprojResolveAssemblyReference.cache
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.dll.mdb
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.dll.mdb
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\obj\Debug\CateringPXL.dll.mdb
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL\bin\Debug\CateringPXL.dll.mdb

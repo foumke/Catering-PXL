@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="preferExternal" android:versionCode="1" android:versionName="Foumke" package="be.pxl.Catering.PXL">
+	<uses-sdk />
+	<application android:label="PXL Catering" android:icon="@drawable/icon2"></application>
+</manifest>

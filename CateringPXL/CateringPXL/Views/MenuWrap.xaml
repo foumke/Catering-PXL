@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CateringPXL.MenuWrap" Title="test"
+             xmlns:local="clr-namespace:CateringPXL;assembly=CateringPXL">
+    <StackLayout Padding="0, 0, 0, 0">
+        <StackLayout Padding="0, 0, 0, 0" BackgroundColor="#58A518" Orientation="Horizontal" >
+          <StackLayout Padding="0, 15, 0, 0" BackgroundColor="#58A518" Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+            <StackLayout.Padding>
+              <OnPlatform x:TypeArguments="Thickness">
+                <OnPlatform.iOS>
+                  0, 15, 5, 0
+                </OnPlatform.iOS>
+                <OnPlatform.Android>
+                  0, 0, 0, 0
+                </OnPlatform.Android>
+              </OnPlatform>
+            </StackLayout.Padding>
+            <Image x:Name="image" Source="icon3.png" VerticalOptions="Start" HorizontalOptions="Start" BindingContext="imageBinding"/>
+            <Label Font="Large" x:Name="lbl_locatie"  TextColor="White" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" />
+            <Label Font="Small" x:Name="lbl_datum" TextColor="White" HorizontalOptions="EndAndExpand">
+              <Label.VerticalOptions>
+                <OnPlatform x:TypeArguments="LayoutOptions">
+                  <OnPlatform.iOS>
+                    CenterAndExpand
+                  </OnPlatform.iOS>
+                  <OnPlatform.Android>
+                    StartAndExpand
+                  </OnPlatform.Android>
+                </OnPlatform>
+              </Label.VerticalOptions>
+            </Label>
+          </StackLayout>
+        </StackLayout>
+      <ScrollView x:Name="scrollview" BackgroundColor="#F8F8F8">
+        <StackLayout Padding="10, 10, 10, 10" BindingContext="cards" x:Name="cardView">
+
+        </StackLayout>
+      </ScrollView>
+    </StackLayout>
+</ContentPage>

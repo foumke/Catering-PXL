@@ -1,0 +1,166 @@
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXLiOS.exe
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXLiOS.pdb
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXL.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXL.pdb
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\CateringPXL.iOS.csprojResolveAssemblyReference.cache
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\CateringPXLiOS.exe
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\CateringPXLiOS.pdb
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects-8.0+.nib
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects.nib
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\runtime.nib
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects-8.0+.nib
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects.nib
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\runtime.nib
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects-8.0+.nib
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects.nib
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\runtime.nib
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects-8.0+.nib
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects.nib
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\runtime.nib
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info-8.0+.plist
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info.plist
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info-8.0+.plist
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info.plist
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default-568h@2x.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default-Portrait.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default-Portrait@2x.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default@2x.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-60@2x.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-60@3x.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-76.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-76@2x.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small-40.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small-40@2x.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small-40@3x.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small@2x.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small@3x.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\icon2.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\icon3.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Refractored.Xam.Settings.Abstractions.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Refractored.Xam.Settings.dll
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Refractored.Xam.Settings.xml
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Refractored.Xam.Settings.Abstractions.xml
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\logo_pxl.png
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\CateringPXLiOS.exe.mdb
+R:\Users\Roy\Desktop\Versie 1\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXLiOS.exe.mdb
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXLiOS.exe
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXLiOS.pdb
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXL.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Refractored.Xam.Settings.Abstractions.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Refractored.Xam.Settings.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXL.pdb
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Refractored.Xam.Settings.xml
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Refractored.Xam.Settings.Abstractions.xml
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\CateringPXL.iOS.csprojResolveAssemblyReference.cache
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\CateringPXLiOS.exe
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\CateringPXLiOS.pdb
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects-8.0+.nib
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects.nib
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\runtime.nib
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects-8.0+.nib
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects.nib
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\runtime.nib
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects-8.0+.nib
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects.nib
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\runtime.nib
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects-8.0+.nib
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects.nib
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\runtime.nib
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info-8.0+.plist
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info.plist
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info-8.0+.plist
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info.plist
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default-568h@2x.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default-Portrait.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default-Portrait@2x.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default@2x.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-60@2x.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-60@3x.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-76.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-76@2x.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small-40.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small-40@2x.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small-40@3x.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small@2x.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small@3x.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\icon2.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\icon3.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\logo_pxl.png
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\CateringPXLiOS.exe.mdb
+X:\Versie_2\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXLiOS.exe.mdb
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXLiOS.exe
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXLiOS.pdb
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXL.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Refractored.Xam.Settings.Abstractions.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Refractored.Xam.Settings.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXL.pdb
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Refractored.Xam.Settings.xml
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Refractored.Xam.Settings.Abstractions.xml
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects-8.0+.nib
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\objects.nib
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~ipad.nib\runtime.nib
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects-8.0+.nib
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\objects.nib
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\UIViewController-X5k-f2-b5h~iphone.nib\runtime.nib
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects-8.0+.nib
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\objects.nib
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~ipad.nib\runtime.nib
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects-8.0+.nib
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\objects.nib
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen.storyboardc\X5k-f2-b5h-view-yd7-JS-zBw~iphone.nib\runtime.nib
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info-8.0+.plist
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~ipad.storyboardc\Info.plist
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info-8.0+.plist
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\ibtool\LaunchScreen~iphone.storyboardc\Info.plist
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default-568h@2x.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default-Portrait.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default-Portrait@2x.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Default@2x.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-60@2x.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-60@3x.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-76.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-76@2x.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small-40.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small-40@2x.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small-40@3x.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small@2x.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\Icon-Small@3x.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\icon2.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\icon3.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\logo_pxl.png
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\optimized\
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\CateringPXL.iOS.csprojResolveAssemblyReference.cache
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\CateringPXLiOS.exe
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\CateringPXLiOS.pdb
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXL.dll.mdb
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\obj\iPhone\Debug\CateringPXLiOS.exe.mdb
+X:\Versie_3\CateringPXL\CateringPXL\CateringPXL.iOS\bin\iPhone\Debug\CateringPXLiOS.exe.mdb
