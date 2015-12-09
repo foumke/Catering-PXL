@@ -57,7 +57,7 @@ namespace CateringPXL
                 client = new HttpClient();
                 client.MaxResponseContentBufferSize = 256000;
 
-                var RestUrl = "http://188.166.123.186/catering/" + titel + "/comingdays";
+                var RestUrl = "http://data.pxl.be/catering/" + titel + "/comingdays";
                 var uri = new Uri(string.Format(RestUrl, string.Empty));
 
                 var response = await client.GetAsync(uri);
